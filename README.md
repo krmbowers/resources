@@ -35,11 +35,12 @@ Extensive (eventually) collection of IT resources (for ic stars)
 - whizlabs.com has fabulous practice tests for all AWS certifications and is GREAT prep for exams, esp. the associate exams
 
 ## Communication Tools
-Confluence - https://support.atlassian.com/confluence-cloud/ for documentation
+- Confluence - https://support.atlassian.com/confluence-cloud/ for documentation
   - There are certifications available for Confluence and Jira, but I don't know anyone who has them
-Slack - used heavily by developers
-Jira - The product of choice for most companies who do agile development
-Trello - "Kanban" style format of agile with cards you can move within columns
+- Slack - used heavily by developers
+- Jira - The product of choice for most companies who do agile development
+- Trello - "Kanban" style format of agile with cards you can move within columns
+- PagerDuty - For on-call and priority issues to page people, industry standard, syncs with slack and confluence
 
 ## Web Development
 ### Javascript
@@ -63,30 +64,26 @@ www.meetup.com - find user groups for everything and every tool that exists, in 
 
 ## Example Job Descriptions
 - From (from https://www.northwesternmutual.com/corporate-careers/)
-- Ability to analyze, design, develop, deploy and support client facing web applications and services.
-- JavaScript expertise (Node, React, Redux), HTML/CSS mastery, competency with CSS preprocessors (LESS, SASS) and build tools (Webpack).
-- Experience with unit testing in Javascript (Tape, Mocha, Jest)
-- Strong sense of ownership and the drive to tackle cross-team projects.
-- Effective communication skills: explain technical solutions to both engineering and non-technical teammates.
-- Team player: brings out the best in fellow engineers and plays well with product owners and designers.
-- 3+ years of development experience
-- Nice to haves: background with large enterprise projects, interest in mentoring junior devs, experience with analytics, familiarity with Docker & Kubernetes, Test Driven Development experience
+  - Ability to analyze, design, develop, deploy and support client facing web applications and services.
+  - JavaScript expertise (Node, React, Redux), HTML/CSS mastery, competency with CSS preprocessors (LESS, SASS) and build tools (Webpack).
+  - Experience with unit testing in Javascript (Tape, Mocha, Jest)
+  - Strong sense of ownership and the drive to tackle cross-team projects.
+  - Effective communication skills: explain technical solutions to both engineering and non-technical teammates.
+  - Team player: brings out the best in fellow engineers and plays well with product owners and designers.
+  - 3+ years of development experience
+  - Nice to haves: background with large enterprise projects, interest in mentoring junior devs, experience with analytics, familiarity     with Docker & Kubernetes, Test Driven Development experience
 
-Summary:
-- JavaScript: Node, React, Redux
-- CSS Preprocessors: LESS, SASS
-- Build Tools: Webpack
-- Javascript Unit Testing: Tape, Mocha, Jest
-- DevOps: Docker and Kubernetes
+  - Summary:
+    - JavaScript: Node, React, Redux
+    - CSS Preprocessors: LESS, SASS
+    - Build Tools: Webpack
+    - Javascript Unit Testing: Tape, Mocha, Jest
+    - DevOps: Docker and Kubernetes
 
-Comments from an NM employee:
-- Node.js and React.js
-- Object Oriented Programming Language like C++ or Java
-- Python
-- Familiarity with databases, both relational (like SQL) and nonrelational (like MongoDB, Maria, or DynamoDB)
-- Basics of infrastructure, OSI Model, how apps talk to infrastructure, etc - AND cloud infrastructure/general AWS knowledge
-- Security (the basics)
-
-
-
-
+- Comments from an NM employee:
+  - Node.js and React.js
+  - Object Oriented Programming Language like C++ or Java
+  - Python
+  - Familiarity with databases, both relational (like SQL) and nonrelational (like MongoDB, Maria, or DynamoDB)
+  - Basics of infrastructure, OSI Model, how apps talk to infrastructure, etc - AND cloud infrastructure/general AWS knowledge
+  - Security (the basics)
